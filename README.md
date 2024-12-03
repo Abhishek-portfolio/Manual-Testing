@@ -1,0 +1,1 @@
+Manual testing is crucial for ensuring that software applications meet quality standards and function as intended. This repository contains well-defined test cases and detailed scenarios that represent various user workflows. It is structured to facilitate easy navigation and execution of tests, ensuring thorough coverage of the application under test.
